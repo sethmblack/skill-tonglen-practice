@@ -3,8 +3,9 @@ name: tonglen-practice
 description: A guided breathing meditation for transforming suffering into compassion, based on the Tibetan Buddhist practice of "sending and taking.
 license: MIT
 metadata:
-  version: 1.0.1
+  version: 1.0.5204
   author: sethmblack
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - tonglen-practice
 - transformation
